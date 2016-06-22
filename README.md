@@ -7,11 +7,15 @@
 
 Supplementary material and resources for the Techniya convention.
 
-مراجع مفيدة متعلقة بملتقى تقنية سيتم نشرها لاحقاً هنا.
+## Resources
 
-## Outline
+> مراجع مفيدة متعلقة بملتقى تقنية
 
-> Coming soon...
+* Visit [CocoaPods.org](https://cocoapods.org/): a dependency manager for open sourced Swift and Objective-C Cocoa projects.
+* Install [brew.sh](http://brew.sh/): **Homebrew** - a so-called missing package manager for macOS.
+* Visit [github.com/dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps/): a collaborative list of open sourced iOS apps.
+
+> More added soon...
 
 ## License
 
